@@ -1,0 +1,54 @@
+#mainheading{
+
+    text-align: center;
+    color: blueviolet;
+    margin-top: 50px;
+}
+body{
+    background-color: rgba(51, 217, 232, 0.605);
+    background-blend-mode: darken;
+
+
+}
+
+.main{
+    border: 2px solid red;
+    margin: 150px;
+}
+h2{
+    text-align: center;
+    
+}
+
+.btn{
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#increment-btn{
+   margin-right: 20px;
+    background-color: orange;
+}
+
+#increment-btn:hover{
+    background-color: white;
+}
+#save-btn{
+    background-color: aquamarine;
+}
+#save-btn:hover{
+    background-color: white;}
+
+
+
+.footer{
+    text-align: center;
+}
+
+.show{
+    text-align:center;
+    
+}
